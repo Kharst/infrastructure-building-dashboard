@@ -1,6 +1,6 @@
 # infrastructure-building-dashboard
 
-![Dashboard Screenshot](images/Screenshot%20(207).png)
+![Dashboard Screenshot](Screenshot%20(207).png)
 
 
 
