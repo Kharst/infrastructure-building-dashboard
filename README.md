@@ -1,6 +1,6 @@
 # infrastructure-building-dashboard
 
-![Infrastructure_BUilding_Dashboard](images/image_name.jpg)
+![Infrastructure_BUilding_Dashboard](images/Screenshot_(207).jpg)
 
 Overview
 This Power BI dashboard provides a comprehensive overview of PPP Infrastructure Building projects, helping stakeholders track project performance and make informed decisions. Gain insights into project costs, duration, financing structures, and distribution across government institutions.
