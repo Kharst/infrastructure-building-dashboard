@@ -15,8 +15,10 @@ Financing Structure Breakdown: Presents the breakdown of financing structures us
 These visualizations may vary depending on the specific layout of your dashboard.
 
 How to Use
-Open the dashboard: Launch the Power BI file to access the dashboard.
-Explore visualizations: Interact with the visualizations to gain insights into project data.
+Access the dashboard directly using the following link:
+
+https://app.powerbi.com/view?r=eyJrIjoiMmQ3NzU4YjUtNjg3ZS00YzA1LWEzMmMtNjBhNjQ2ZDhjY2NhIiwidCI6IjFhYmZiNTU4LTUwZmMtNGYxMS05ODExLTAzMDAyNjkyMjY1NyJ9&embedImagePlaceholder=true
+
 Apply filters: Use available filters (e.g., date of close, project name, financing structure) to refine the data displayed.
 
 Data Refresh
