@@ -1,6 +1,7 @@
 # infrastructure-building-dashboard
 
-![Infrastructure_BUilding_Dashboard](images/[Screenshot_(207)](https://github.com/Kharst/infrastructure-building-dashboard/blob/main/Screenshot%20(207).png?raw=true
+![Dashboard Screenshot](images/Screenshot%20(207).png)
+
 
 
 Overview
